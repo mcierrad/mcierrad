@@ -17,8 +17,8 @@ Cybersecurity has always fascinated me. From coding stories as a teen to becomin
 ## What Inspires Me
 
 I'm deeply motivated by women who have used cybersecurity to make change:
-- **Katelyn Bowden** - turned trauma into advocacy, fighting image-based abuse an building digital resilience for others.
-- **Mari Galloway** - broke barriers as a woman of color in ethical hacking anf founded the Women's Society of Cyberjutsu.
+- **Katelyn Bowden** - turned trauma into advocacy, fighting image-based abuse and building digital resilience for others.
+- **Mari Galloway** - broke barriers as a woman of color in ethical hacking and founded the Women's Society of Cyberjutsu.
 - **Georgia Weidman** - whose pioneering work in penetration testing and mobile security gave women like me a blueprint for breaking into the field.
 
 ---
